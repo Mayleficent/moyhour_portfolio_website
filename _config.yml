@@ -1,16 +1,13 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
-url: https://example.github.io
+title: Moyhour Portfolio Websit
+email: ang.moyhour@outlook.com
+url: http://mayleficent.github.io/moyhour_portfolio_website
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-<<<<<<< HEAD
-baseurl: "/grayscale-theme"
+baseurl: "/moyhour_portfolio_website"
 
-# Color settings
-=======
 
 # Color settings (hex-codes without the leading hash-tag)
->>>>>>> master
+
 color:
   primary-dark: '#000000'
   links: '#219ab3'
