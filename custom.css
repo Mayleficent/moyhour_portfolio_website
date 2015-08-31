@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Raleway', sans-serif!important;
-    color:#14182c!important;
+    color:#444 !important;
     background-color: #fff!important;
 }
 h1,
@@ -16,16 +16,25 @@ h5,
 h6 {
 
     font-family: 'Raleway', sans-serif!important;
+
+}
+
+.section-heading-color{
+  color: #333;
+  font-size: 35px;
 }
 
 /******************************Menu Section******************************/
 .navbar-custom.top-nav-collapse {
     padding: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
-    background: #14182c!important;
+    background: #fff!important;
+}
+.navbar-custom.top-nav-collapse a {
+  color: #444;
 }
 .navbar-toggle .fa{
-  color: #fff;
+  color: #444;
 }
 /******************************About Section******************************/
 section {
@@ -48,9 +57,10 @@ section {
 }
 .skills-item h4{
   padding-top:20px;
+  color:#444;
 }
 .skills-item i{
-  color:#14182c;
+  color:#5989bf;
 }
 /******************************Portfolio Section******************************/
 #portfolio img{
@@ -71,7 +81,7 @@ section {
   color:#5989bf;
 }
 #contact a{
-  color:#14182c;
+  color:#444;
   opacity:1.0;
 }
 #contact a:hover{
